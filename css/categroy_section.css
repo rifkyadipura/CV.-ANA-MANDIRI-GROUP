@@ -1,0 +1,103 @@
+#feature {
+    background: #f9f9f9;
+    padding: 50px 0;
+  }
+  
+  #feature .center {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  #feature .categroy_section_2 {
+    position: relative;
+  }
+  
+  #feature .categroy_section_2 .carousel {
+    position: relative;
+  }
+  
+  #feature .carousel-inner .carousel-item {
+    padding: 50px 0;
+  }
+  
+  #feature .carousel-inner .carousel-item .row {
+    align-items: center;
+  }
+  
+  #feature .carousel-inner .carousel-item .col-md-4 {
+    text-align: center;
+  }
+  
+  #feature .carousel-inner .carousel-item .hover01 {
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+  
+  #feature .carousel-inner .carousel-item .hover01 figure {
+    transition: all 0.3s ease 0s;
+  }
+  
+  #feature .carousel-inner .carousel-item .hover01 figure img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #feature .carousel-inner .carousel-item .hover01:hover figure {
+    transform: scale(1.1);
+  }
+  
+  #feature .carousel-inner .carousel-item h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  #feature .carousel-inner .carousel-item p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  #feature .carousel-inner .carousel-item .readmore_btn {
+    display: inline-block;
+    padding: 8px 25px;
+    background: #333;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    border-radius: 30px;
+    transition: all 0.3s ease 0s;
+  }
+  
+  #feature .carousel-inner .carousel-item .readmore_btn:hover {
+    background: #555;
+  }
+  
+  #feature .carousel-control-prev,
+  #feature .carousel-control-next {
+    width: 40px;
+    height: 40px;
+    background: #333;
+    color: #fff;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: all 0.3s ease 0s;
+  }
+  
+  #feature .carousel-control-prev:hover,
+  #feature .carousel-control-next:hover {
+    background: #555;
+  }
+  
+  #feature .carousel-control-prev i,
+  #feature .carousel-control-next i {
+    line-height: 40px;
+  }
+  
+  #feature .carousel-control-prev {
+    left: -25px;
+  }
+  
+  #feature .carousel-control-next {
+    right: -25px;
+  }
